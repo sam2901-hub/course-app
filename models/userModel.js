@@ -12,4 +12,4 @@ const userSchema = new Schema({
 const userModel = new model("users", userSchema);
 export default userModel;
 
-aborted;
+
